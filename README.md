@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**sebastian-meckovski/sebastian-meckovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seb, a passionate software developer with around 3 years of hands-on experience across diverse industries such as e-commerce, private healthcare, and finance. My expertise lies in crafting highly interactive and responsive web applications.
+## 🚀 Tech Stack
 
-Here are some ideas to get you started:
+- **Frontend:** React, Typescript, Javascript, HTML5, CSS3
+- **Backend:** NodeJS, ASP.NET Core, Entity Framework Core
+- **Testing:** Cypress, Jest
+- **Databases:** SQL, non-relational databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+- Developed and maintained web applications with a keen eye for delivering exceptional user experiences.
+- Built RESTful APIs using ASP.NET Core and Entity Framework Core for efficient data access and manipulation.
+- Extensive experience in React development with ECMA 6, React Routers, and Jest for unit testing.
+
+## 🛠 Skills
+
+- Solid understanding of web technologies and standards for optimal web and mobile experiences.
+- Proficient in version control using GIT.
+- Worked in Agile and SCRUM methodologies, fostering collaboration and efficient project delivery.
