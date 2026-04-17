@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Seb, a passionate software developer with around 3 years of hands-on experience across diverse industries such as e-commerce, private healthcare, and finance. My expertise lies in crafting highly interactive and responsive web applications.
+I'm Seb, a passionate software developer with around 4 years of hands-on experience across diverse industries such as e-commerce, private healthcare, and finance. My expertise lies in crafting highly interactive and responsive web applications.
 ## 🚀 Tech Stack
 
 - **Frontend:** React, Typescript, Javascript, HTML5, CSS3
